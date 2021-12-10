@@ -1,0 +1,16 @@
+P:\HackerHank\Project Euler\001 Multiples of 3 and 5\001 Multiples of 3 and 5\bin\Debug\net5.0\001 Multiples of 3 and 5.exe
+P:\HackerHank\Project Euler\001 Multiples of 3 and 5\001 Multiples of 3 and 5\bin\Debug\net5.0\001 Multiples of 3 and 5.deps.json
+P:\HackerHank\Project Euler\001 Multiples of 3 and 5\001 Multiples of 3 and 5\bin\Debug\net5.0\001 Multiples of 3 and 5.runtimeconfig.json
+P:\HackerHank\Project Euler\001 Multiples of 3 and 5\001 Multiples of 3 and 5\bin\Debug\net5.0\001 Multiples of 3 and 5.runtimeconfig.dev.json
+P:\HackerHank\Project Euler\001 Multiples of 3 and 5\001 Multiples of 3 and 5\bin\Debug\net5.0\001 Multiples of 3 and 5.dll
+P:\HackerHank\Project Euler\001 Multiples of 3 and 5\001 Multiples of 3 and 5\bin\Debug\net5.0\ref\001 Multiples of 3 and 5.dll
+P:\HackerHank\Project Euler\001 Multiples of 3 and 5\001 Multiples of 3 and 5\bin\Debug\net5.0\001 Multiples of 3 and 5.pdb
+P:\HackerHank\Project Euler\001 Multiples of 3 and 5\001 Multiples of 3 and 5\obj\Debug\net5.0\001 Multiples of 3 and 5.csproj.AssemblyReference.cache
+P:\HackerHank\Project Euler\001 Multiples of 3 and 5\001 Multiples of 3 and 5\obj\Debug\net5.0\001 Multiples of 3 and 5.GeneratedMSBuildEditorConfig.editorconfig
+P:\HackerHank\Project Euler\001 Multiples of 3 and 5\001 Multiples of 3 and 5\obj\Debug\net5.0\001 Multiples of 3 and 5.AssemblyInfoInputs.cache
+P:\HackerHank\Project Euler\001 Multiples of 3 and 5\001 Multiples of 3 and 5\obj\Debug\net5.0\001 Multiples of 3 and 5.AssemblyInfo.cs
+P:\HackerHank\Project Euler\001 Multiples of 3 and 5\001 Multiples of 3 and 5\obj\Debug\net5.0\001 Multiples of 3 and 5.csproj.CoreCompileInputs.cache
+P:\HackerHank\Project Euler\001 Multiples of 3 and 5\001 Multiples of 3 and 5\obj\Debug\net5.0\001 Multiples of 3 and 5.dll
+P:\HackerHank\Project Euler\001 Multiples of 3 and 5\001 Multiples of 3 and 5\obj\Debug\net5.0\ref\001 Multiples of 3 and 5.dll
+P:\HackerHank\Project Euler\001 Multiples of 3 and 5\001 Multiples of 3 and 5\obj\Debug\net5.0\001 Multiples of 3 and 5.pdb
+P:\HackerHank\Project Euler\001 Multiples of 3 and 5\001 Multiples of 3 and 5\obj\Debug\net5.0\001 Multiples of 3 and 5.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001 Multiples of 3 and 5", "001 Multiples of 3 and 5\001 Multiples of 3 and 5.csproj", "{49F70884-9343-48CE-94CF-4A770E382098}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49F70884-9343-48CE-94CF-4A770E382098}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49F70884-9343-48CE-94CF-4A770E382098}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49F70884-9343-48CE-94CF-4A770E382098}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49F70884-9343-48CE-94CF-4A770E382098}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60CD2253-954B-423F-940E-1B0B7C3F304B}
+	EndGlobalSection
+EndGlobal
