@@ -1,23 +1,19 @@
-/*
-Enter your query here.
-Please append a semicolon ";" at the end of the query and enter your query in a single line to avoid error.
-*/
-
 select  hackers.hacker_id
       , hackers.name
-      , count ( distinct submissions.challenge_id )
-  from  hackers
+  from  submissions 
+  inner join hackers
+    on  hackers.hacker_id
+      = submissions.hacker_id
   inner join challenges
-    on  challenges.hacker_id
-      = hackers.hacker_id
+    on  challenges.challenge_id
+      = submissions.challenge_id
   inner join difficulty
     on  difficulty.difficulty_level
       = challenges.difficulty_level
-  inner join submissions
-    on  submissions.challenge_id
-      = challenges.challenge_id
-    and submissions.hacker_id
-      = hackers.hacker_id
+  where submissions.score
+      = difficulty.score
   group by  hackers.hacker_id
           , hackers.name
-      
+  having    count(hackers.hacker_id) > 1
+  order by  count(challenges.challenge_id) desc
+          , hackers.hacker_id
