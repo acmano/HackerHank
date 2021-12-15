@@ -1,0 +1,3 @@
+obj\x86\Debug\_PlusMinus.g.cs
+obj\x86\Debug\Workflow1.g.cs
+obj\x86\Debug\PlusMinus_Workflow1_BeforeInitializeComponentHelper.cs
